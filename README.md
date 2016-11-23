@@ -1,5 +1,5 @@
 # FizzBuzz
-An implementation of the popular FizzBuzz assignment, BDD with Behat. Inspired by the excellent book [Principles of Package Design]("Principles of Package Design")
+An implementation of the popular FizzBuzz assignment, BDD with Behat. Inspired by the excellent book ["Principles of Package Design"](https://leanpub.com/principles-of-package-design).
 
 ## Run docker
 ```
