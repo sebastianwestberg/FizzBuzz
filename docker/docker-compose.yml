@@ -1,0 +1,4 @@
+php:
+    build: php
+    volumes:
+        - ../:/var/www/fizzbuzz
