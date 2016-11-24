@@ -1,7 +1,7 @@
 # FizzBuzz
 [![Build Status](https://travis-ci.org/sebastianwestberg/FizzBuzz.svg?branch=master)](https://travis-ci.org/sebastianwestberg/FizzBuzz)
 
-An implementation of the popular FizzBuzz assignment. I'm utilizing BDD with Behat and a simple testing with PHPUnit. 
+An implementation of the popular FizzBuzz assignment. Behat was used for BDD. 
 Inspired by the excellent book ["Principles of Package Design"](https://leanpub.com/principles-of-package-design).
 
 ### Run with docker
